@@ -1,23 +1,31 @@
-Welcome to my GitHub profile! I’m a Customer Representative and a tech enthusiast currently diving deep into the world of software development.
+Hi, I’m Evelyn N. Mwanunura — an IT and Data Reporting Specialist transitioning into Software Development and Cloud Computing. With a solid foundation in tech support and data analytics, I'm now building full-stack applications and learning how to solve real-world problems through code.
 
--🌟 About Me
--🌱 Learning: Software Development with CYF (Code Your Future).
+🌱 Currently Learning
+Full-Stack Development with Code Your Future (CYF)
 
--💡 Interests: Problem-solving, collaboration, and creating impactful tech solutions.
+Data Science with ALX
 
--📫 Contact: 
--Connect with me on LinkedIn.
+Cloud Computing 
 
--🛠️ Technologies & Tools
--Here are the technologies and tools I’m exploring and working with:
+💡 Interests
+Creating tech solutions that make a difference
 
--Languages: JavaScript, Java, C
--Tools: Git, Miro
+Women empowerment in tech, especially single moms
 
--📚 Projects
--Feel free to explore my repositories to see what I’m working on. I’m always excited to collaborate on meaningful projects and learn from others in the community!
+Building clean, user-focused web applications
 
--🌐 Connect with Me
--LinkedIn: Evelyn N. Mwanunura
+Data storytelling, automation, and cloud infrastructure
 
--Thanks for stopping by! Let’s connect, collaborate, and grow together in the world of tech. 🚀
+🛠️ Tech Stack
+Languages: JavaScript, Python, Java, C
+Tools: Git & GitHub, Miro, VS Code
+Tech: HTML, CSS, Node.js, AWS, SQL, Pandas, NumPy, React.js (learning)
+
+📚 Projects
+Check out my repositories to explore the apps, dashboards, and scripts I’m working on. Each project is a step toward mastering software engineering and empowering others through tech.
+
+🌐 Let’s Connect
+📫 LinkedIn – Evelyn Nomsa Mwanunura
+🤝 Open to collaboration, mentorship, and freelance opportunities
+
+Thanks for visiting! Let’s grow, build, and thrive together in tech 🚀
