@@ -3,7 +3,7 @@ Hi, I’m Evelyn N. Mwanunura — an IT and Data Reporting Specialist transition
 🌱 Currently Learning
 Full-Stack Development with Code Your Future (CYF)
 
-Data Science with ALX
+
 
 Cloud Computing 
 
