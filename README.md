@@ -10,8 +10,6 @@ Cloud Computing
 💡 Interests
 Creating tech solutions that make a difference
 
-Women empowerment in tech, especially single moms
-
 Building clean, user-focused web applications
 
 Data storytelling, automation, and cloud infrastructure
